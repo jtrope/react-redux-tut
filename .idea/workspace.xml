@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9035f68a-6eb7-4558-a88e-070e7de06ca9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/seasons/src/SeasonDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/src/SeasonDisplay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seasons/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +24,13 @@
         <counts>
           <entry key="gitignore" value="20" />
           <entry key="html" value="38" />
-          <entry key="js" value="2308" />
+          <entry key="js" value="2550" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="38" />
-          <entry key="JavaScript" value="2308" />
+          <entry key="JavaScript" value="2550" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -68,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seasons/src/SeasonDisplay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -289,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seasons/src/SeasonDisplay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="285">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
